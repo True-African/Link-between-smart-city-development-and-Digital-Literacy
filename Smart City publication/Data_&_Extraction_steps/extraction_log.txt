@@ -1,0 +1,173 @@
+2025-04-19 00:26:39,819 - INFO - Extracting entries from d:/Research/Smart City publication/Abstra3.txt...
+2025-04-19 00:26:39,839 - INFO - Extracted 984 entries from d:/Research/Smart City publication/Abstra3.txt
+2025-04-19 00:26:39,840 - INFO - Found 984 entries
+2025-04-19 00:26:39,892 - INFO - Initial parsing complete. Checking for incomplete entries...
+2025-04-19 00:26:39,895 - INFO - Found 191 incomplete entries
+2025-04-19 00:26:39,900 - INFO - Recovery attempt complete. Recovered data for 0 entries.
+2025-04-19 00:26:39,901 - INFO - Still have 191 incomplete entries
+2025-04-19 00:26:39,969 - INFO - Results written to literature_results_Abstra3.csv
+2025-04-19 00:26:39,973 - INFO - Incomplete records report generated: README_incomplete_records.md
+2025-04-19 00:26:40,051 - INFO - CSV Analysis:
+2025-04-19 00:26:40,052 - INFO - Total rows: 984
+2025-04-19 00:26:40,054 - INFO - Empty cells per column:
+2025-04-19 00:26:40,056 - INFO -   - author: 133 (13.52%)
+2025-04-19 00:26:40,056 - INFO -   - year: 9 (0.91%)
+2025-04-19 00:26:40,057 - INFO -   - title: 12 (1.22%)
+2025-04-19 00:26:40,057 - INFO -   - abstract: 73 (7.42%)
+2025-04-19 00:26:40,058 - INFO -   - url_or_doi: 8 (0.81%)
+2025-04-19 00:37:44,855 - INFO - Extracting entries from d:/Research/Smart City publication/Abstra3.txt...
+2025-04-19 00:37:44,887 - INFO - Extracted 1026 entries from d:/Research/Smart City publication/Abstra3.txt
+2025-04-19 00:37:44,889 - INFO - Found 1026 entries
+2025-04-19 00:37:45,087 - INFO - Initial parsing complete. Checking for incomplete entries...
+2025-04-19 00:37:45,088 - INFO - Found 79 incomplete entries
+2025-04-19 00:37:45,089 - INFO - Recovered fields for entry 29 (Oztaskin2024): title
+2025-04-19 00:37:45,092 - INFO - Recovered fields for entry 87 (OviedoHernandez2016): abstract
+2025-04-19 00:37:45,093 - INFO - Recovered fields for entry 127 (Nigg2017a): title
+2025-04-19 00:37:45,094 - INFO - Recovered fields for entry 148 (Blanco2020a): abstract
+2025-04-19 00:37:45,094 - INFO - Recovered fields for entry 172 (Capdevila2015d): abstract, year
+2025-04-19 00:37:45,097 - INFO - Recovered fields for entry 212 (VanderVelden2021): abstract
+2025-04-19 00:37:45,098 - INFO - Recovered fields for entry 218 (Dameri2013a): abstract
+2025-04-19 00:37:45,098 - INFO - Recovered fields for entry 285 (Calzada2020d): abstract
+2025-04-19 00:37:45,099 - INFO - Recovered fields for entry 289 (Ruiz-Ariza2018): title, abstract
+2025-04-19 00:37:45,100 - INFO - Recovered fields for entry 303 (Althoff2016a): title, abstract
+2025-04-19 00:37:45,100 - INFO - Recovered fields for entry 325 (Jacob2015): abstract
+2025-04-19 00:37:45,102 - INFO - Recovered fields for entry 379 (Bach2011): abstract
+2025-04-19 00:37:45,103 - INFO - Recovered fields for entry 386 (): author
+2025-04-19 00:37:45,105 - INFO - Recovered fields for entry 431 (ScienceLink2023b): title, abstract
+2025-04-19 00:37:45,106 - INFO - Recovered fields for entry 432 (Nigg2017): title
+2025-04-19 00:37:45,110 - INFO - Recovered fields for entry 441 (Capdevila2015c): abstract, year
+2025-04-19 00:37:45,111 - INFO - Recovered fields for entry 475 (Ruiz-Ariza2018a): title, abstract
+2025-04-19 00:37:45,112 - INFO - Recovered fields for entry 498 (OviedoHernandez2016a): abstract
+2025-04-19 00:37:45,113 - INFO - Recovered fields for entry 510 (Howe2016): title, abstract
+2025-04-19 00:37:45,113 - INFO - Recovered fields for entry 546 (Althoff2016): title, abstract
+2025-04-19 00:37:45,114 - INFO - Recovered fields for entry 615 (Berniak-Wozny2025): abstract
+2025-04-19 00:37:45,114 - INFO - Recovered fields for entry 726 (Nemer2018): abstract
+2025-04-19 00:37:45,115 - INFO - Recovered fields for entry 837 (): author
+2025-04-19 00:37:45,117 - INFO - Recovered fields for entry 905 (Howe2016a): title, abstract
+2025-04-19 00:37:45,119 - INFO - Recovered fields for entry 988 (Praharaj2019): abstract
+2025-04-19 00:37:45,127 - INFO - Recovery attempt complete. Recovered data for 25 entries.
+2025-04-19 00:37:45,128 - INFO - Still have 60 incomplete entries
+2025-04-19 00:37:45,187 - ERROR - Error checking CSV file: 'float' object has no attribute 'strip'
+2025-04-19 00:37:45,248 - INFO - Results written to literature_results_Abstra3.csv
+2025-04-19 00:37:45,250 - INFO - Incomplete records report generated: README_incomplete_records.md
+2025-04-19 00:37:45,305 - INFO - CSV Analysis:
+2025-04-19 00:37:45,306 - INFO - Total rows: 1026
+2025-04-19 00:37:45,306 - INFO - Empty cells per column:
+2025-04-19 00:37:45,306 - INFO -   - author: 10 (0.97%)
+2025-04-19 00:37:45,307 - INFO -   - year: 7 (0.68%)
+2025-04-19 00:37:45,307 - INFO -   - title: 2 (0.19%)
+2025-04-19 00:37:45,309 - INFO -   - abstract: 54 (5.26%)
+2025-04-19 00:37:45,310 - INFO -   - url_or_doi: 8 (0.78%)
+2025-04-19 00:40:02,596 - ERROR - Error: Could not find file at Smart City publication/Abstra3.txt or D:\ALU\Ethics in Software Engineering\Summative_2025J\Smart City publication\Abstra3.txt
+2025-04-19 00:59:21,264 - ERROR - Error: Could not find file at Smart City publication/Abstra3.txt or D:\ALU\Ethics in Software Engineering\Summative_2025J\Smart City publication\Abstra3.txt
+2025-04-19 00:59:51,037 - INFO - Extracting entries from d:/Research/Smart City publication/Abstra3.txt...
+2025-04-19 00:59:51,090 - INFO - Extracted 1026 entries from d:/Research/Smart City publication/Abstra3.txt
+2025-04-19 00:59:51,093 - INFO - Found 1026 entries
+2025-04-19 00:59:51,322 - INFO - Initial parsing complete. Checking for incomplete entries...
+2025-04-19 00:59:51,324 - INFO - Found 60 incomplete entries
+2025-04-19 00:59:51,328 - INFO - Recovered fields for entry 121 (Capdevila2015c): abstract, abstract, year
+2025-04-19 00:59:51,334 - INFO - Recovered fields for entry 450 (): author
+2025-04-19 00:59:51,343 - INFO - Recovered fields for entry 714 (): author, year
+2025-04-19 00:59:51,345 - INFO - Recovered fields for entry 747 (Capdevila2015d): abstract, abstract, year
+2025-04-19 00:59:51,351 - INFO - Recovery attempt complete. Recovered data for 4 entries.
+2025-04-19 00:59:51,351 - INFO - Still have 59 incomplete entries
+2025-04-19 00:59:51,395 - ERROR - Error checking CSV file: 'float' object has no attribute 'strip'
+2025-04-19 00:59:51,467 - INFO - Results written to literature_results_Abstra3.csv
+2025-04-19 00:59:51,471 - INFO - Incomplete records report generated: README_incomplete_records.md
+2025-04-19 00:59:51,533 - INFO - CSV Analysis:
+2025-04-19 00:59:51,534 - INFO - Total rows: 1026
+2025-04-19 00:59:51,535 - INFO - Empty cells per column:
+2025-04-19 00:59:51,536 - INFO -   - author: 10 (0.97%)
+2025-04-19 00:59:51,536 - INFO -   - year: 6 (0.58%)
+2025-04-19 00:59:51,537 - INFO -   - title: 2 (0.19%)
+2025-04-19 00:59:51,537 - INFO -   - abstract: 54 (5.26%)
+2025-04-19 00:59:51,538 - INFO -   - url_or_doi: 8 (0.78%)
+2025-04-19 01:08:00,515 - INFO - Extracting entries from d:/Research/Smart City publication/Abstra2.txt...
+2025-04-19 01:08:00,560 - INFO - Extracted 1006 entries from d:/Research/Smart City publication/Abstra2.txt
+2025-04-19 01:08:00,564 - INFO - Found 1006 entries
+2025-04-19 01:08:00,789 - INFO - Initial parsing complete. Checking for incomplete entries...
+2025-04-19 01:08:00,790 - INFO - Found 98 incomplete entries
+2025-04-19 01:08:00,794 - INFO - Recovered fields for entry 46 (): year
+2025-04-19 01:08:00,803 - INFO - Recovered fields for entry 544 (Ahmed2020): abstract, abstract, year
+2025-04-19 01:08:00,808 - INFO - Recovered fields for entry 720 (Elkaseh2016): abstract, abstract, year
+2025-04-19 01:08:00,813 - INFO - Recovered fields for entry 894 (): year
+2025-04-19 01:08:00,815 - INFO - Recovered fields for entry 934 (Capdevila2015): abstract, abstract, year
+2025-04-19 01:08:00,820 - INFO - Recovered fields for entry 996 (Capdevila2015a): abstract, abstract, year
+2025-04-19 01:08:00,820 - INFO - Recovery attempt complete. Recovered data for 6 entries.
+2025-04-19 01:08:00,821 - INFO - Still have 98 incomplete entries
+2025-04-19 01:08:00,880 - INFO - Read 1026 existing records from literature_results_Abstra3.csv
+2025-04-19 01:08:00,882 - INFO - Adding 824 new entries to literature_results_Abstra3.csv
+2025-04-19 01:08:00,937 - INFO - Results written to literature_results_Abstra3.csv
+2025-04-19 01:08:00,941 - INFO - Incomplete records report generated: README_incomplete_records_Abstra2.md
+2025-04-19 01:08:01,025 - INFO - Final CSV Analysis:
+2025-04-19 01:08:01,025 - INFO - Total rows: 1850
+2025-04-19 01:08:01,026 - INFO - Empty cells per column:
+2025-04-19 01:08:01,026 - INFO -   - author: 20 (1.08%)
+2025-04-19 01:08:01,026 - INFO -   - year: 11 (0.59%)
+2025-04-19 01:08:01,027 - INFO -   - title: 6 (0.32%)
+2025-04-19 01:08:01,027 - INFO -   - abstract: 128 (6.92%)
+2025-04-19 01:08:01,029 - INFO -   - url_or_doi: 65 (3.51%)
+2025-04-19 01:12:40,977 - INFO - Extracting entries from d:/Research/Smart City publication/Abstra1.txt...
+2025-04-19 01:12:41,027 - INFO - Extracted 941 entries from d:/Research/Smart City publication/Abstra1.txt
+2025-04-19 01:12:41,030 - INFO - Found 941 entries
+2025-04-19 01:12:41,221 - INFO - Initial parsing complete. Checking for incomplete entries...
+2025-04-19 01:12:41,222 - INFO - Found 77 incomplete entries
+2025-04-19 01:12:41,225 - INFO - Recovered fields for entry 172 (): author
+2025-04-19 01:12:41,227 - INFO - Recovered fields for entry 329 (RESEARCHWRITING): year
+2025-04-19 01:12:41,229 - INFO - Recovered fields for entry 331 (): author
+2025-04-19 01:12:41,230 - INFO - Recovered fields for entry 371 (): author
+2025-04-19 01:12:41,234 - INFO - Recovered fields for entry 420 (): author
+2025-04-19 01:12:41,237 - INFO - Recovered fields for entry 470 (): year
+2025-04-19 01:12:41,240 - INFO - Recovered fields for entry 570 (Lockie2024): abstract, abstract, year
+2025-04-19 01:12:41,241 - INFO - Recovered fields for entry 597 (): author
+2025-04-19 01:12:41,242 - INFO - Recovered fields for entry 613 (): author
+2025-04-19 01:12:41,243 - INFO - Recovered fields for entry 641 (Unknown): year
+2025-04-19 01:12:41,244 - INFO - Recovered fields for entry 693 (): author
+2025-04-19 01:12:41,245 - INFO - Recovered fields for entry 760 (): author
+2025-04-19 01:12:41,249 - INFO - Recovered fields for entry 881 (Capdevila2015): abstract, abstract, year
+2025-04-19 01:12:41,251 - INFO - Recovered fields for entry 919 (): author
+2025-04-19 01:12:41,253 - INFO - Recovered fields for entry 927 (Capdevila2015b): abstract, abstract, year
+2025-04-19 01:12:41,253 - INFO - Recovery attempt complete. Recovered data for 15 entries.
+2025-04-19 01:12:41,254 - INFO - Still have 74 incomplete entries
+2025-04-19 01:12:41,336 - INFO - Read 1850 existing records from literature_results_Abstra3.csv
+2025-04-19 01:12:41,341 - INFO - Adding 705 new entries to literature_results_Abstra3.csv
+2025-04-19 01:12:41,385 - INFO - Results written to literature_results_Abstra3.csv
+2025-04-19 01:12:41,388 - INFO - Incomplete records report generated: README_incomplete_records_Abstra1.md
+2025-04-19 01:12:41,482 - INFO - Final CSV Analysis:
+2025-04-19 01:12:41,482 - INFO - Total rows: 2555
+2025-04-19 01:12:41,483 - INFO - Empty cells per column:
+2025-04-19 01:12:41,483 - INFO -   - author: 27 (1.06%)
+2025-04-19 01:12:41,484 - INFO -   - year: 21 (0.82%)
+2025-04-19 01:12:41,484 - INFO -   - title: 9 (0.35%)
+2025-04-19 01:12:41,486 - INFO -   - abstract: 181 (7.08%)
+2025-04-19 01:12:41,486 - INFO -   - url_or_doi: 85 (3.33%)
+2025-04-19 01:25:59,398 - INFO - Extracting entries from d:/Research/Smart City publication/notes1.txt...
+2025-04-19 01:25:59,398 - INFO - Reading file d:/Research/Smart City publication/notes1.txt...
+2025-04-19 01:25:59,438 - INFO - File size: 5630555 characters. Extracting entries...
+2025-04-19 01:25:59,816 - INFO - Extracted 3459 entries from d:/Research/Smart City publication/notes1.txt
+2025-04-19 01:25:59,832 - INFO - Found 3459 entries. Processing...
+2025-04-19 01:25:59,832 - INFO - Processing batch 1/4 (1000 entries)
+2025-04-19 01:26:00,267 - INFO - Batch 1: Found 128 incomplete entries
+2025-04-19 01:26:00,459 - INFO - Batch 1: Recovered data for 43 entries
+2025-04-19 01:26:00,460 - INFO - Processing batch 2/4 (1000 entries)
+2025-04-19 01:26:00,817 - INFO - Batch 2: Found 117 incomplete entries
+2025-04-19 01:26:00,937 - INFO - Batch 2: Recovered data for 52 entries
+2025-04-19 01:26:00,937 - INFO - Processing batch 3/4 (1000 entries)
+2025-04-19 01:26:01,177 - INFO - Batch 3: Found 116 incomplete entries
+2025-04-19 01:26:01,252 - INFO - Batch 3: Recovered data for 34 entries
+2025-04-19 01:26:01,252 - INFO - Processing batch 4/4 (459 entries)
+2025-04-19 01:26:01,379 - INFO - Batch 4: Found 62 incomplete entries
+2025-04-19 01:26:01,417 - INFO - Batch 4: Recovered data for 20 entries
+2025-04-19 01:26:01,420 - INFO - Still have 411 incomplete entries after recovery
+2025-04-19 01:26:01,606 - INFO - Results written to Lit_summar.csv
+2025-04-19 01:26:01,613 - INFO - Incomplete records report generated: README_incomplete_notes1.md
+2025-04-19 01:26:01,918 - INFO - CSV Analysis:
+2025-04-19 01:26:01,940 - INFO - Total rows: 3459
+2025-04-19 01:26:01,960 - INFO - Empty cells per column:
+2025-04-19 01:26:01,976 - INFO -   - author: 27 (0.78%)
+2025-04-19 01:26:01,979 - INFO -   - year: 26 (0.75%)
+2025-04-19 01:26:01,986 - INFO -   - title: 8 (0.23%)
+2025-04-19 01:26:01,992 - INFO -   - abstract: 362 (10.47%)
+2025-04-19 01:26:01,999 - INFO -   - url_or_doi: 123 (3.56%)
+2025-04-19 01:26:02,000 - INFO -   - entry_type: 0 (0.00%)
+2025-04-19 01:26:02,000 - INFO - Execution completed in 2.60 seconds

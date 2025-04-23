@@ -1,0 +1,44 @@
+The purpose of this assessment is to have you apply the concepts and ideas learned in this course, specifically focusing on the ethical, legal, and societal impacts of technology.
+
+Objectives;
+
+Identify and define key ethical concepts.
+Analyze ethical concerns throughout the software development lifecycle.
+Use ethical frameworks and decision-making processes.
+Articulate ethical concerns clearly and persuasively.
+Analyze the ethical, legal, and societal impacts of software products.
+Critically assess the ethical implications of emerging technologies.
+
+Part Two
+Task one: [Complete by week nine(9)]
+Create a project journal/project logbook
+Design & Development;
+Maintain an ongoing reflection of your design choices and implementation decisions, together with their ethical implications.
+Document this reflection in a project journal/project logbook.
+Demo & Feedback:
+Briefly highlight any ethical considerations addressed or challenges encountered during development.
+Seek feedback on the ethical implications of your project's current state.
+Document (in the project journal/project logbook) your insights/glows and areas of improvement from the demo. In addition, ensure your document highlights (but not be limited to) sections about;
+Features of the system/code and guided system access/execution steps
+Culturally relevant values the solution addresses or integrates
+Elements of Ubuntu (interconnectedness, community, and shared humanity)
+Respect for vulnerable groups and traditional leadership structures
+Incorporation of opportunities for consensus-building transparency, accountability and inclusive decision-making
+Possibility of leveraging oral traditions and storytelling to promote ethical values and transmit cultural knowledge within your system
+How does the system encourage sustainable and environmentally responsible business practices?
+Does your system address issues of social inequality and promote equitable access to opportunities and resources?
+How does your system encourage ethical and responsible use of technology, addressing challenges like data privacy and digital divides?
+Deadline: End of week nine(9)
+
+Task Two: [Complete by week twelve(12)]
+Video: Note that we must see your face as you present from the start to the end. At the same time, we want to see you navigate through your solution/system as you discuss it. Do not edit or combine clips of your video recording.
+Create a 7 – to 15-minute video discussing;
+The historical development of your capstone technology and the design choices that shaped it.
+Its current uses and the user & User Impact (including inclusivity/exclusion) e.g. groups it may invite or exclude
+The ethical concerns associated with the technology.
+Potential alternative design choices that could lead to a more inclusive or ethical outcome.
+A vision for the future development of the technology, considering ethical implications.
+A walkthrough of the key sections of your written End-User License/Copyright/Privacy policy agreement.
+Submission Name: Summative assessment: Part Two
+File type: DOCX/PDF with a link to the recorded video
+Deadline: End of week twelve (12) [03/28/2025]
